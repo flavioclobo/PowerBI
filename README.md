@@ -7,4 +7,3 @@
 <img src="https://github.com/flavioclobo/flavioclobo/blob/main/Adventure%20Works%20(dark).jpg">
 <p>Dashboard com dados do banco de dados de exemplo NorthWind: https://lnkd.in/dBwZsvQw</p>
 <img src="https://github.com/flavioclobo/flavioclobo/blob/main/thumbnail_NorthWind_green.png">
-<a href="https://lnkd.in/dBwZsvQw" target="_blank"><img src="https://github.com/flavioclobo/flavioclobo/blob/main/thumbnail_NorthWind_green.png"></a>
