@@ -1,5 +1,5 @@
 # PowerBI
-## Portfólio de Dashboards em Power BI desenvolvido por [Flavio Lobo]("https://www.linkedin.com/in/flavioclobo/")
+## Portfólio de Dashboards em Power BI desenvolvido por [Flavio Lobo](https://www.linkedin.com/in/flavioclobo)
 
 <p>Dashboard com dados do banco de dados de exemplo Contoso: https://lnkd.in/d3Y8JDN</p>
 <img src="https://github.com/flavioclobo/flavioclobo/blob/main/Contoso%20(Spark).png">
